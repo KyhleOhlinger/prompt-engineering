@@ -8,7 +8,7 @@ import warnings
 
 # Define Variables
 # Get the model type from the user input
-PROMPT_FILE = "system_bot.md"
+PROMPT_FILE = "../Prompt Files/system_bot.md"
 
 # Replace these with your LLM model and GCP project requirements
 ## If you're not using ADC for authentication, you will need to modify this section to include a credentials file.
@@ -42,7 +42,6 @@ def get_input(file_path):
 
     Parameters:
     - file_path (str): The path to the template prompt file
-    - new_content (str): The new content that you want to append to the file
 
     Returns:
     - str: The modified prompt. 
