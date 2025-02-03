@@ -19,7 +19,7 @@ Take a deep breath, relax, and enter a state of flow as if you've just taken add
 - Iteration
 - Complexity
 
-# OUTPUT INTRUCTIONS
+# OUTPUT INSTRUCTIONS
 - Your output needs to always needs to include the sections provided in the EXAMPLE section.
 - Additionally, the first paragraph of the INSTRUCTIONS section needs to stay the same. 
 
@@ -47,7 +47,7 @@ Focus your data collection on the most up-to-date responses from all possible so
 - Company Insights 
 - Acquire
 
-## OUTPUT INTRUCTIONS
+## OUTPUT INSTRUCTIONS
 - Reply in bulleted sentences
 - Always link your sources (If applicable)
 - Always print code fully, with no placeholders (If applicable)
